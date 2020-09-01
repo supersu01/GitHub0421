@@ -12,7 +12,7 @@ public class GitDemo {
         System.out.println("Hello python");//Test push python
         System.out.println("Hello scala");// Test scala push
         System.out.println("Hello C");//Test C11111
-        System.out.println("Hello C++");
+        System.out.println("Hello C++");//Test CCCCCCC by feature-X
         System.out.println("Hello C#");
     }
 }
