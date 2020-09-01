@@ -9,7 +9,7 @@ public class GitDemo {
         System.out.println("Hello java");
         System.out.println("Hello PHP");//Test php by master
         System.out.println("Hello PHP");//Test by hotfix
-        System.out.println("Hello python");
+        System.out.println("Hello python");//Test push python
         System.out.println("Hello scala");
         System.out.println("Hello C");
         System.out.println("Hello C++");
